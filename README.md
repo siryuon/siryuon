@@ -31,9 +31,10 @@
 
 ### Experience
 <p>
-  <br><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/></br>
-  <b>Google Developers Machine Learning Bootcamp (2021)</b>
-  <br><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></br>
+  <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  
+  <b>Google Developers Machine Learning Bootcamp (2021)</b>  
   <b>TensorFlow Developer Certificate (2021)</b>
 </p>
 
