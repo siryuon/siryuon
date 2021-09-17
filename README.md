@@ -1,6 +1,8 @@
+# Moon Gi Cho
 <p>
   <a href="mailto:siryuon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/siryuon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/moon-gi-cho-a46207218/" target="_blank"><img src="https://img.shields.io/badge/MoonGi Cho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/siryuon" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 <p>
