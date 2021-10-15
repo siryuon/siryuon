@@ -6,7 +6,6 @@
 </p>
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siryuon">
 
 <p>
   👋&nbsp; Hi there! I'm interested in <b>Data Science</b> 🚀<br/>
