@@ -41,7 +41,7 @@
 
 
 ### Education
-|Name|Date|Contents|Status|
+|Name|Date|Department|Status|
 |:---:|:---:|:---:|:---:|
-|[**KyungHee University**](https://swcon.khu.ac.kr/)|2017.3. ~ 2023.2.|Majored in Software Convergence (Specialized in Data Science)|Bachelor's degree
+|[**KyungHee University**](https://swcon.khu.ac.kr/)|2017.3. ~ 2023.2.|Software Convergence (Specialized in Data Science)|Bachelor's degree
 |[**University of California San Diego**](https://cse.ucsd.edu/)|2018.1.|Computer Science & Engineering|Oversea study
