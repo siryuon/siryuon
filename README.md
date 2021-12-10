@@ -32,13 +32,16 @@
 <p>
   <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  
-  <b>Google Developers Machine Learning Bootcamp (2021)</b>  
-  <b>TensorFlow Developer Certificate (2021)</b>
-</p>
+</p> 
+
+|Type|Date|Contents|Organization|
+|:---:|:---:|:---:|:---:|
+|**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google
+|**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow
+
 
 ### Education
-<p>
-  <br>KyungHee University, Majored in Software Convergence (Specialized in Data Science)</br>
-  <br>UCSD, Computer Science & Engineering, Oversea study</br>
-</p>
+|Name|Date|Contents|Status|
+|:---:|:---:|:---:|:---:|
+|[**KyungHee University**](https://swcon.khu.ac.kr/)|2017.3. ~ 2023.2.|Majored in Software Convergence (Specialized in Data Science)|Bachelor's degree
+|[**University of California San Diego**](https://cse.ucsd.edu/)|2018.1.|Computer Science & Engineering|Oversea study
