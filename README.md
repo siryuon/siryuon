@@ -36,6 +36,7 @@
 
 |Type|Date|Contents|Organization|
 |:---:|:---:|:---:|:---:|
+|**Research**|2022.1. ~|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)
 |**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google
 |**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow
 
