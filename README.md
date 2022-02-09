@@ -14,7 +14,6 @@
 ### Interest
   - NLP
   - Data Analysis
-  - Digital Marketing
 
 ### Skills
 <p>
@@ -32,13 +31,16 @@
 <p>
   <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
 </p> 
 
-|Type|Date|Contents|Organization|
-|:---:|:---:|:---:|:---:|
-|**Research**|2022.1. ~|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)
-|**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google
-|**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow
+|Type|Date|Contents|Organization|Remarks
+|:---:|:---:|:---:|:---:|:---:|
+|**Research**|2022.1. ~|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|Research in progress focusing on lifelong language learning(LLL)
+|**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google|Successfuly Completed
+|**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow|[See Credential](https://www.credential.net/48659f8a-b5ee-4060-b02d-c30b663c1b6d#gs.9oqzn0)
+|**External Activity**|2022.2. ~|KHUDA Club Member|Kyunghee University|NLP, Recommendation System, Time Series Analysis, etc.
+|**Competition**|2022.2.|[Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)|Kaggle</br>(Jigsaw/Conversation AI)|165th out of 2301 teams</br> (top 8%, bronze medal, solo)
 
 
 ### Education
