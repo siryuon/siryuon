@@ -49,3 +49,9 @@
 |:---:|:---:|:---:|:---:|
 |[**KyungHee University**](https://swcon.khu.ac.kr/)|2017.3. ~ 2023.2.(Expected)|Software Convergence (Specialized in Data Science)|Bachelor's degree
 |[**University of California San Diego**](https://cse.ucsd.edu/)|2018.1.|Computer Science & Engineering|Oversea study
+
+### Publication
+|Name|Affiliation|Conference|Author|
+|:---:|:---:|:---:|:---:|
+|Lifelong Language Learning Using Pretrained Adapters|Department of Software Convergence, Kyung Hee University|KCC 2022|First
+
