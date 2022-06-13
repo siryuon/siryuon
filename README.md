@@ -38,8 +38,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 |**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google|Successfuly Completed
 |**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow|[See Credential](https://www.credential.net/48659f8a-b5ee-4060-b02d-c30b663c1b6d#gs.9oqzn0)
-|**Research**|2022.1. ~|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|Research in progress focusing on lifelong language learning(LLL)
-|**External Activity**|2022.1. ~|KHU Vision and Learning Reading Group|[KHU CS](https://github.com/khuvll/reading_group#current-schedule)|Paper reading group about CV and ML
+|**Research**|2022.1. ~ 2022.6.|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|Research in progress focusing on lifelong language learning(LLL)
+|**External Activity**|2022.1. ~ 2022.6.|KHU Vision and Learning Reading Group|[KHU CS](https://github.com/khuvll/reading_group#current-schedule)|Paper reading group about CV and ML
 |**External Activity**|2022.2. ~|KHUDA Club Member|Kyunghee University|NLP, Recommendation System, Time Series Analysis, etc.
 |**Competition**|2022.2.|[Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)|Kaggle</br>(Jigsaw/Conversation AI)|165th out of 2301 teams</br> (top 8%, bronze medal, solo)
 
