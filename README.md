@@ -36,7 +36,8 @@
 
 |Type|Date|Contents|Organization|Remarks
 |:---:|:---:|:---:|:---:|:---:|
-|**External Activity**|2021.8. ~ 2021.12.|Google Machine Learning Bootcamp|Google|Successfuly Completed
+|**External Activity**|2022.9. ~|[Boostcamp AI Tech](https://boostcamp.connect.or.kr/)|NAVER Connect|Proceeding
+|**External Activity**|2021.8. ~ 2021.12.|[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp_84589b)|Google|Successfuly Completed
 |**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow|[See Credential](https://www.credential.net/48659f8a-b5ee-4060-b02d-c30b663c1b6d#gs.9oqzn0)
 |**Research**|2022.1. ~ 2022.6.|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|Research in progress focusing on lifelong language learning(LLL)
 |**External Activity**|2022.1. ~ 2022.6.|KHU Vision and Learning Reading Group|[KHU CS](https://github.com/khuvll/reading_group#current-schedule)|Paper reading group about CV and ML
