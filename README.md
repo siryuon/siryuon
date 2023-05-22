@@ -8,12 +8,9 @@
 
 
 <p>
-  👋&nbsp; Hi there! I'm interested in <b>Data Science</b> 🚀<br/>
+  👋&nbsp; Hi there! I'm interested in <b>NLP</b> 🚀<br/>
 </p>
 
-### Interest
-  - NLP
-  - Data Analysis
 
 ### Skills
 <p>
@@ -27,19 +24,23 @@
   
 </p>
 
+### Careers
+
+
+|Type|Date|Position|Organization|
+|:---:|:---:|:---:|:---:|
+|**Full-time**|2023.5. ~|NLP Engineer|[Crowdworks Inc.](http://crowdworks.kr)|
+|**Internship**|2022.8.|Server Management|[Nurhyme Games](http://nurhyme.com)|
+|**Research**|2022.1. ~ 2022.6.|Undergraduate Research Student (NLP)|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|
+
 ### Experience
-<p>
-  <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/>
-</p> 
+
 
 |Type|Date|Contents|Organization|Remarks
 |:---:|:---:|:---:|:---:|:---:|
-|**External Activity**|2022.9. ~|[Boostcamp AI Tech](https://boostcamp.connect.or.kr/)|NAVER Connect|Proceeding
-|**External Activity**|2021.8. ~ 2021.12.|[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp_84589b)|Google|Successfuly Completed
+|**External Activity**|2022.9. ~ 2023.2.|[Boostcamp AI Tech](https://boostcamp.connect.or.kr/)|NAVER Connect|Completion(NLP Track)
+|**External Activity**|2021.8. ~ 2021.12.|[Google Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp_84589b)|Google|Completion
 |**Certificate**|2021.8.|TensorFlow Developer Certificate|TensorFlow|[See Credential](https://www.credential.net/48659f8a-b5ee-4060-b02d-c30b663c1b6d#gs.9oqzn0)
-|**Research**|2022.1. ~ 2022.6.|Undergraduate Research Student|[KHU AGILAB](http://agi.khu.ac.kr/index.html)|Research in progress focusing on lifelong language learning(LLL)
 |**External Activity**|2022.1. ~ 2022.6.|KHU Vision and Learning Reading Group|[KHU CS](https://github.com/khuvll/reading_group#current-schedule)|Paper reading group about CV and ML
 |**External Activity**|2022.2. ~|KHUDA Club Member|Kyunghee University|NLP, Recommendation System, Time Series Analysis, etc.
 |**Competition**|2022.2.|[Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)|Kaggle</br>(Jigsaw/Conversation AI)|165th out of 2301 teams</br> (top 8%, bronze medal, solo)
